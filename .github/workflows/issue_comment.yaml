@@ -18,6 +18,6 @@ jobs:
           body: |
             This is a multiline test comment
             - one
-            - two
-            - three
+
             [1]: https://github.com/peter-evans/create-or-update-comment
+        reactions: "+1"
